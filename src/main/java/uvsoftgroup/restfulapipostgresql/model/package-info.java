@@ -1,0 +1,5 @@
+/**
+ * 
+ */
+
+package uvsoftgroup.restfulapipostgresql.model;
